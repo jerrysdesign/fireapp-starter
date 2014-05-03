@@ -1,23 +1,20 @@
-// vertical rhythm
-$base-font-size: 16px;
-$base-line-height: 24px;
-$relative-font-sizing: false;
+/* Import Bourbon and Neat */
+@import "bourbon/bourbon";	//version 3.2.1
+@import "bitters/bitters";
+@import "grid-settings";
+@import "neat/neat";				//version 2.0
 
-// compass
-$legacy-support-for-ie: false;
-$grid-background-baseline-height: $base-line-height;
+/* Import base */
+@import "base/normalize";
+@import "base/variables";
+@import "base/typography";
+@import "base/structure";
 
-// class variable
-$page-container: ".page";
+/* Import modules */
+// EX:Icon-font
 
-// import all things
-@import "compass";
-@import "susy";
+/* Import Sections */
+// @import "sections";
 
-@import "normalize";
-@include establish-baseline;
-
-@import "colors";
-@import "typography";
-@import "layout";
-@import "pages";
+/* Import Pages */
+// @import "pages";

@@ -16,4 +16,4 @@ Get default with a jump start.
 
 ## Note
 
-- If you want to use Bourbon & NEAT by default, use branch "bourbon".
+- If you want to use Bitters by default, use branch "Bitters".

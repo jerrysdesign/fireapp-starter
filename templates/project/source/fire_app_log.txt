@@ -1,0 +1,274 @@
+2014-05-03 02:08:58     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:08:58 overwrite stylesheets/all.css 
+2014-05-03 02:11:12     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:11:12 overwrite stylesheets/all.css 
+2014-05-03 02:11:20     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:11:20 identical stylesheets/all.css 
+2014-05-03 02:17:54     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:17:54 identical stylesheets/all.css 
+2014-05-03 02:17:55     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:17:55 identical stylesheets/all.css 
+2014-05-03 02:19:23     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:19:23 overwrite stylesheets/all.css 
+2014-05-03 02:21:01     error sass/all.scss (Line 3 of sass/bitters/_bitters.scss: File to import not found or unreadable: neat-helpers.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets
+  /vendor/assets/stylesheets)
+2014-05-03 02:21:01 overwrite stylesheets/all.css 
+2014-05-03 02:26:25     error sass/all.scss (Line 9: File to import not found or unreadable: modules/variables.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 02:26:25 overwrite stylesheets/all.css 
+2014-05-03 02:26:25     error sass/all.scss (Line 9: File to import not found or unreadable: modules/variables.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 02:26:25 identical stylesheets/all.css 
+2014-05-03 02:27:54     error sass/all.scss (Line 9: File to import not found or unreadable: variables.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 02:27:54 overwrite stylesheets/all.css 
+2014-05-03 02:28:18     error sass/all.scss (Line 33 of sass/base/_typography.scss: Undefined variable: "$title".)
+2014-05-03 02:28:18 overwrite stylesheets/all.css 
+2014-05-03 02:28:27     error sass/all.scss (Line 33 of sass/base/_typography.scss: Undefined variable: "$title".)
+2014-05-03 02:28:27 overwrite stylesheets/all.css 
+2014-05-03 02:29:35     error sass/all.scss (Line 17: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 02:29:35 overwrite stylesheets/all.css 
+2014-05-03 02:30:08 overwrite stylesheets/all.css 
+2014-05-03 02:32:39 overwrite stylesheets/all.css 
+2014-05-03 11:39:27 overwrite stylesheets/all.css 
+2014-05-03 11:53:43 identical stylesheets/all.css 
+2014-05-03 11:56:31 identical stylesheets/all.css 
+2014-05-03 11:56:39 identical stylesheets/all.css 
+2014-05-03 11:56:43 identical stylesheets/all.css 
+2014-05-03 12:01:31 identical stylesheets/all.css 
+2014-05-03 12:01:49 identical stylesheets/all.css 
+2014-05-03 12:04:45     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:45 overwrite stylesheets/all.css 
+2014-05-03 12:04:46     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:46 identical stylesheets/all.css 
+2014-05-03 12:04:47     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:47 identical stylesheets/all.css 
+2014-05-03 12:04:47     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:47 identical stylesheets/all.css 
+2014-05-03 12:04:48     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:48 identical stylesheets/all.css 
+2014-05-03 12:04:48     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:48 identical stylesheets/all.css 
+2014-05-03 12:04:49     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:49 identical stylesheets/all.css 
+2014-05-03 12:04:49     error sass/all.scss (Line 14: File to import not found or unreadable: modules/buttons.
+Load paths:
+  /Users/jerrysdesign/Documents/clone GitHub/my_repositories/fireapp-starter/templates/project/source/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_0.13/compass-0.13.alpha.4/frameworks/compass/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/Fire.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-05-03 12:04:49 identical stylesheets/all.css 
+2014-05-03 12:04:59 overwrite stylesheets/all.css 
+2014-05-03 12:06:10 overwrite stylesheets/all.css 
+2014-05-03 12:06:54 identical stylesheets/all.css 
+2014-05-03 12:24:28 overwrite stylesheets/all.css 
+2014-05-03 12:24:37 overwrite stylesheets/all.css 
+2014-05-03 12:27:50 overwrite stylesheets/all.css 
+2014-05-03 12:27:59 identical stylesheets/all.css 
